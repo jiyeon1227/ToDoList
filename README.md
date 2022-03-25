@@ -1,2 +1,2 @@
 # ToDoList
-참고 -https://github.com/jiyeon1227/jiyeon.git
+참고 - https://be-a-weapon.tistory.com/19?category=1207108
