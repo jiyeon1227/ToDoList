@@ -7,3 +7,9 @@
   <li>랜덤으로 명언, 이미지 출력</li>
   <li>todo입력, 삭제</li>
 </ul></h4>
+
+<h5>
+  My ToDoList Site (ʘ ͜ʖ ʘ) <br>
+  https://jiyeon1227.github.io/ToDoList/
+ </h5>
+<h5>css 작업중 ಥ_ಥ</h5>
