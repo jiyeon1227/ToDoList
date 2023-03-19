@@ -3,7 +3,5 @@
 }
 
 body{
-    height: 100vh;
-    width: 100vw;
-    background-image: src('css/style.css');
+    display: flex;
 }
