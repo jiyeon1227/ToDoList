@@ -9,18 +9,46 @@ img {
     top: 0px;
     left: 0px;
     z-index: -1;
-    opacity: 0.8;
+    opacity: 0.4;
   }
+
+  ul{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input{
+  text-align: center;
+  width:175px;
+}
+
+#login-form{
+  text-align: center;
+}
 
 #clock{
     text-align: center;
     font-size: 80px;
+    padding: 50px;
+    margin: 0px;
   }
 
 #greeting{
     text-align: center;
+    padding: 10px;
 }
 
 #todo-form{
     text-align: center;
+}
+
+#todo-list{
+  text-align: center;
+  font-size: large;
+}
+
+#quote{
+  text-align: center;
+  font-size: large;
 }
