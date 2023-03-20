@@ -10,6 +10,6 @@
 
 <h5>
   My ToDoList Site (ʘ ͜ʖ ʘ) <br>
-  https://jiyeon1227.github.io/ToDoList/
+  
  </h5>
 <h5>css 작업중 ಥ_ಥ</h5>
