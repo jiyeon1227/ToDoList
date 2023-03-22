@@ -9,7 +9,7 @@
 </ul></h4>
 
 <h5>
-  My ToDoList Site (ʘ ͜ʖ ʘ) <br>
+  My ToDoList Site (´▽`ʃ♡ƪ) <br>
   
  </h5>
 <h5>css 작업중 ಥ_ಥ</h5>
