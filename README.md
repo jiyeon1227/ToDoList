@@ -1,11 +1,17 @@
 # ToDoList
 
-<h4><ul>
+<h3><ul>
   <li>사용자 이름받기</li>
   <li>현재 시간 출력</li>
   <li>랜덤으로 명언, 이미지 출력</li>
   <li>todo입력, 삭제</li>
-</ul></h4>
+</ul></h3>
+
+<h4> 추가할 기능들
+<ul>
+  <li>입력버튼 만들기</li>
+ </ul></h4>
+  
 
 <h5>
   My ToDoList Site (´▽`ʃ♡ƪ) <br>
