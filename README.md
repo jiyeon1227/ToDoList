@@ -7,9 +7,10 @@
   <li>todo입력, 삭제</li>
 </ul></h3>
 
-<h4> 추가할 기능들
+<h4> 추가할 기능들ಥ_ಥ
 <ul>
   <li>입력버튼 만들기</li>
+  <li>todo입력창 css</li>
  </ul></h4>
   
 
@@ -17,4 +18,3 @@
   My ToDoList Site (´▽`ʃ♡ƪ) <br>
   
  </h5>
-<h5>css 작업중 ಥ_ಥ</h5>
