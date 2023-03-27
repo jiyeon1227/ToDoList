@@ -4,13 +4,12 @@
   <li>사용자 이름받기</li>
   <li>현재 시간 출력</li>
   <li>랜덤으로 명언, 이미지 출력</li>
-  <li>todo입력, 삭제</li>
+  <li>todo list</li>
 </ul></h3>
 
-<h4> 추가할 기능들ಥ_ಥ
+<h4> 추가할 기능들 ಥ_ಥ
 <ul>
-  <li>입력버튼 만들기</li>
-  <li>todo입력창 css</li>
+  <li>todo입력버튼 & css</li>
  </ul></h4>
   
 
