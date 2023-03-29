@@ -43,7 +43,8 @@ const quotes =[
 const quote = document.querySelector("#quote span:first-child");
 const author = document.querySelector("#quote span:last-child");
 
-const todaysQuote = quotes[Math.floor(Math.random()*quotes.length)];
+const todaysQuote = quotes[Math.floor(Math.random()*quotes.length)]; //math.random()은 랜덤한 숫자를 가져옴 (기본적으로 0과1 사이의 숫자를 가져옴 -> 1은 안가져옴)
+                                                                    // * X를 하면 0부터 X사이에있는랜덤 숫자를 가져옴 -> 명언 배열길이만큼 곱함 (배열은 0부터 시작)
 
 quote.innerText = todaysQuote.quote;
 author.innerText = todaysQuote.author;
