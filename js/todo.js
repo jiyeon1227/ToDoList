@@ -24,12 +24,12 @@ function deleteTodo(event){
 function PaintToDo(newTodo){
     const li = document.createElement("li");
     li.id = newTodo.id;
-    const span = document.createElement("span");
+    const span = document.createElement("span"); //버튼을 만들기때문에 span사용함
     span.innerText = newTodo.text;
     const button = document.createElement("button");
     button.innerText = "❌";
     button.addEventListener("click",deleteTodo)//버튼을 누르면 deleteTodo함수 호출
-    li.appendChild(span);
+    li.appendChild(span); //li는 span자식을 가짐
     li.appendChild(button);
     toDoList.appendChild(li);
 }
